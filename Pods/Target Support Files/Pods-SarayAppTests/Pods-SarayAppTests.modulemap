@@ -1,0 +1,6 @@
+framework module Pods_SarayAppTests {
+  umbrella header "Pods-SarayAppTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
